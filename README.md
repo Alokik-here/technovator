@@ -1,1 +1,1 @@
-# technovator
+# technovators.netlify.app
